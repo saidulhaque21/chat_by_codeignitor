@@ -24,6 +24,7 @@ You have to set user before going to chat room or doing chat. For that you follo
 user login and set two variable for chat. 
 
 $this->session->set_userdata('online_chat_user', USER_ID); // session set the user id 
+
 $_SESSION['online_chat_username'] =  USERNAME; // session set the user name  
 
 
